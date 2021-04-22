@@ -69,10 +69,6 @@ it('read', async()=>{
 
 });
 
-/*
-TODO
-Create award user and assign roles
-*/
 
 
 })
