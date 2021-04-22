@@ -15,6 +15,9 @@ Test cases:
 Page objects:
 - pages/
 
+Test Data:
+- resources/
+
 Test Execution:
 mocha --timeout 5000000000000000000 -r ts-node/register tests/test.test.ts --grep "TESTCASE DESCRIPTION"
 
